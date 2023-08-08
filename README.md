@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **ReactJs , MERN stack, Javascript**
 
-- 📫 How to reach me **SagarBarate2907@gmail.com**
+- 📫 How to reach me **SagarBarate2907@gmail.com / +917045488409**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rVrVhQHyIu41ud7NeJtrGG6m1g-fOb-g/view?usp=sharing](https://drive.google.com/file/d/1rVrVhQHyIu41ud7NeJtrGG6m1g-fOb-g/view?usp=sharing)
 
