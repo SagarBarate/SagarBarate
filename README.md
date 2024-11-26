@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sagar Barate</h1>
-<h3 align="center">A passionate frontend developer from India currently working at Accenture</h3>
+<h3 align="center">A passionate Software Engineer currently Studing at Technological University Shenon,Athlone, Ireland</h3>
 
-- 💬 Ask me about **ReactJs , MERN stack, Javascript**
+- 💬 Ask me about **ReactJs, Cloud, Docker,Kubernetes , MERN stack, Javascript**
 
-- 📫 How to reach me **SagarBarate2907@gmail.com / +917045488409**
+- 📫 How to reach me **SagarBarateirl@gmail.com / +353894489363**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rVrVhQHyIu41ud7NeJtrGG6m1g-fOb-g/view?usp=sharing](https://drive.google.com/file/d/1rVrVhQHyIu41ud7NeJtrGG6m1g-fOb-g/view?usp=sharing)
-
+- 📄 Know about my experiences
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sagar-barate-6b22041b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sagar-barate-6b22041b3" height="30" width="40" /></a>
