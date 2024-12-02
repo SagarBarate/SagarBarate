@@ -6,7 +6,7 @@
 - 📫 How to reach me **SagarBarateirl@gmail.com / +353894489363**
 
 - 📄 Know about my experiences
-- Application Development Analyst– Accenture - Mumbai, India, August 2023– August 2024
+-📄**Application Development Analyst**– **Accenture - Mumbai, India, August 2023– August 2024**
 Completed training in Software development in Java, Web Development, Linux, SQL, AWS, Agile .
 Worked on maintenance activity of WhatsApp banking(used for campaign), supported for deployment on dockers
 containerization of jar files, DR activities.
@@ -16,7 +16,7 @@ Contributed in developing an e-learning based web-application “My Learnings”
 Designed and developed the “Assignment Creation” feature, enabling instructor to generate customized
 assignments tailored to specific courses, classes, and students
 Key Technologies: React, NodeJS, SQL, AWS
--Associate Software Engineer– Accenture - Mumbai, India, October 2021– November 2023
+- 📄**Associate Software Engineer**–**Accenture - Mumbai, India, October 2021– November 2023**
 Worked on Reward portal(Edge Reward) of bank contributed to develop banners on website for latest offers.
 Introduced a user-friendly Drag and Drop feature for generating questions and quizzes, enhancing the
 interactivity and engagement of the learning content. Took ownership of scaling and refactoring legacy code
