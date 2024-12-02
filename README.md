@@ -5,8 +5,9 @@
 
 - 📫 How to reach me **SagarBarateirl@gmail.com / +353894489363**
 
-- 📄 Know about my experiences
--📄**Application Development Analyst**– **Accenture - Mumbai, India, August 2023– August 2024**
+- 📄** Know about my experiences**
+  
+- 📄**Application Development Analyst**– **Accenture - Mumbai, India, August 2023– August 2024**
 Completed training in Software development in Java, Web Development, Linux, SQL, AWS, Agile .
 Worked on maintenance activity of WhatsApp banking(used for campaign), supported for deployment on dockers
 containerization of jar files, DR activities.
