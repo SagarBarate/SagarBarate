@@ -6,7 +6,22 @@
 - 📫 How to reach me **SagarBarateirl@gmail.com / +353894489363**
 
 - 📄 Know about my experiences
-- 
+- Application Development Analyst– Accenture - Mumbai, India, August 2023– August 2024
+Completed training in Software development in Java, Web Development, Linux, SQL, AWS, Agile .
+Worked on maintenance activity of WhatsApp banking(used for campaign), supported for deployment on dockers
+containerization of jar files, DR activities.
+Supported chatbot application for server monitoring, deployments, DR activities, patch deployments, Logs
+fetching.
+Contributed in developing an e-learning based web-application “My Learnings” as a full stack developer.
+Designed and developed the “Assignment Creation” feature, enabling instructor to generate customized
+assignments tailored to specific courses, classes, and students
+Key Technologies: React, NodeJS, SQL, AWS
+-Associate Software Engineer– Accenture - Mumbai, India, October 2021– November 2023
+Worked on Reward portal(Edge Reward) of bank contributed to develop banners on website for latest offers.
+Introduced a user-friendly Drag and Drop feature for generating questions and quizzes, enhancing the
+interactivity and engagement of the learning content. Took ownership of scaling and refactoring legacy code
+and turned it into smaller reusable object-oriented code.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sagar-barate-6b22041b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sagar-barate-6b22041b3" height="30" width="40" /></a>
