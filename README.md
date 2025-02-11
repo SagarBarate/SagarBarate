@@ -8,7 +8,7 @@
 - 📄** Know about my experiences**<br>
   
 - 📄**Application Development Analyst**– **Accenture - Mumbai, India, August 2023– August 2024**<br>
-**Retail Channel (Banking Project) ** <br>
+**Retail Channel (Banking Project)** <br>
 •	Contributed to the development of the Reward Portal (Edge Reward) where customers earn and redeemed points on all type of transactions, enhancing user engagement and customer loyalty.<br>
 •	Developed Dynamic banners for showcasing the latest offers, improving real-time marketing capabilities and user experience.<br>
 •	Utilized Java, Spring Boot, and Hibernate to create a robust and scalable RESTful API for the bank’s Reward Portal, improving transaction processing efficiency and enhancing user experience, contributing to a 30% increase in customer engagement and reward redemptions.<br>
