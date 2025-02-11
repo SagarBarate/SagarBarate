@@ -5,17 +5,17 @@
 
 - 📫 How to reach me **SagarBarateirl@gmail.com / +353894489363**
 
-- 📄** Know about my experiences**
+- 📄** Know about my experiences**<br>
   
-- 📄**Application Development Analyst**– **Accenture - Mumbai, India, August 2023– August 2024**
-Retail Channel (Banking Project)  
+- 📄**Application Development Analyst**– **Accenture - Mumbai, India, August 2023– August 2024**<br>
+Retail Channel (Banking Project)  <br>
 •	Contributed to the development of the Reward Portal (Edge Reward) where customers earn and redeemed points on all type of transactions, enhancing user engagement and customer loyalty.
 •	Developed Dynamic banners for showcasing the latest offers, improving real-time marketing capabilities and user experience.
 •	Utilized Java, Spring Boot, and Hibernate to create a robust and scalable RESTful API for the bank’s Reward Portal, improving transaction processing efficiency and enhancing user experience, contributing to a 30% increase in customer engagement and reward redemptions.
 •	Worked on the WhatsApp Banking Campaign, focusing on maintenance activities, Docker containerization of jar files, and Disaster Recovery (DR) procedures to ensure system resilience and reliability.
 •	Supported a chatbot application for server monitoring, deployments, patch management, and log analysis, improving operational efficiency and system uptime.
 •	Key Technologies: Java, Spring Boot, Spring JPA, Docker, AWS, Jenkins, Linux, ReactJS, Microservices.
-TeachNow ( E-Learning Platform)
+TeachNow ( E-Learning Platform)<br>
 •	Reduced the manual efforts of Ops team upto 90% by automating report generation for candidates.
 •	Refactored legacy code, applied best practices and optimized algorithms to enhance search functionality and improve platform search operations by 25%.
 •	Introduced a user-friendly Drag and Drop feature for generating questions and quizzes, enhancing the interactivity and engagement of the learning content. Took ownership of scaling and refactoring legacy code and turned it into smaller reusable object-oriented code.
