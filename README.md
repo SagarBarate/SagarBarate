@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Barate</h1>
 <h3 align="center">A passionate Software Engineer currently Studing at Technological University Shenon,Athlone, Ireland</h3>
 
-- 💬 Ask me about **Java,AWS Cloud, Docker,Kubernetes , MERN stack, Javascript**
+- 💬 Ask me about **Java(Spring Boot) , Pyhton (Djnago),AWS Cloud, Docker,Kubernetes , MERN stack, Javascript**
 
 - 📫 How to reach me **SagarBarateirl@gmail.com / +353894489363**
 
