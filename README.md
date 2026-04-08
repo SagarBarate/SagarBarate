@@ -1,37 +1,54 @@
 <h1 align="center">Hi 👋, I'm Sagar Barate</h1>
-<h3 align="center">A passionate Software Engineer currently Studing at Technological University Shenon,Athlone, Ireland</h3>
+<h3 align="center">Software Engineer | AWS Certified | MSc Cloud Native Computing</h3>
 
-- 💬 Ask me about **Java(Spring Boot) , Pyhton (Djnago),AWS Cloud, Docker,Kubernetes , MERN stack, Javascript**
-
-- 📫 How to reach me **SagarBarateirl@gmail.com / +353894489363**
-
-- 📄** Know about my experiences**<br>
-  
-- 📄**Application Development Analyst**– **Accenture - Mumbai, India, August 2023– August 2024**<br>
-**Retail Channel (Banking Project)** <br>
-•	Contributed to the development of the Reward Portal (Edge Reward) where customers earn and redeemed points on all type of transactions, enhancing user engagement and customer loyalty.<br>
-•	Developed Dynamic banners for showcasing the latest offers, improving real-time marketing capabilities and user experience.<br>
-•	Utilized Java, Spring Boot, and Hibernate to create a robust and scalable RESTful API for the bank’s Reward Portal, improving transaction processing efficiency and enhancing user experience, contributing to a 30% increase in customer engagement and reward redemptions.<br>
-•	Worked on the WhatsApp Banking Campaign, focusing on maintenance activities, Docker containerization of jar files, and Disaster Recovery (DR) procedures to ensure system resilience and reliability.<br>
-•	Supported a chatbot application for server monitoring, deployments, patch management, and log analysis, improving operational efficiency and system uptime.<br>
-•	Key Technologies: Java, Spring Boot, Spring JPA, Docker, AWS, Jenkins, Linux, ReactJS, Microservices.<br>
-**TeachNow ( E-Learning Platform)**<br>
-•	Reduced the manual efforts of Ops team upto 90% by automating report generation for candidates.<br>
-•	Refactored legacy code, applied best practices and optimized algorithms to enhance search functionality and improve platform search operations by 25%.<br>
-•	Introduced a user-friendly Drag and Drop feature for generating questions and quizzes, enhancing the interactivity and engagement of the learning content. Took ownership of scaling and refactoring legacy code and turned it into smaller reusable object-oriented code.<br>
-•	Implemented Shimmer UI for the e-learning platform, enhancing user experience by providing smooth, engaging loading screens.<br>
-•	Integrated lazy loading techniques to optimize content delivery, improving platform performance and reducing page load times, resulting in a more efficient and seamless user experience.<br>
-•	Key Technologies: ReactJS, HTML, CSS, Tailwind CSS.<br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sagar-barate-6b22041b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sagar-barate-6b22041b3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sagarbarate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sagarbarate/" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building scalable backend services, microservices, and cloud-native applications.<br>
+  Currently studying at Technological University of Shannon, Athlone, Ireland 🇮🇪
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbarate&show_icons=true&locale=en&layout=compact" alt="sagarbarate" /></p>
+### 🚀 About Me
+- 🔭 3+ years of experience in full-stack and backend development, microservices, and cloud infrastructure
+- ⚙️ Specialized in **Java (Spring Boot 2.x/3.x)**, **Spring Batch**, and high-throughput **RESTful APIs**
+- 🏦 Delivered production-grade distributed services for banking and e-learning platforms at Accenture
+- 🎓 MSc in Software Design with Cloud Native Computing — **First Class Distinction**
+- ☁️ AWS Certified Developer Associate | HashiCorp Terraform Associate
+- 💬 Ask me about **Spring Boot, Spring Batch, Java, Microservices, React.js, AWS, Docker, Kubernetes**
+- 📫 Reach me at **sagarbarate1999@gmail.com**
 
+---
+
+### ⚙️ What I Build
+
+- 🔧 **Backend Services** — Spring Boot microservices and RESTful APIs with clean OOP design
+- 📦 **Batch Processing** — Spring Batch pipelines that improved data processing performance by **60%**, cutting execution time from hours to minutes
+- ⚡ **Reactive Systems** — Spring WebFlux for low-latency, near real-time backend operations
+- 🌐 **Full Stack** — React.js + TypeScript frontends integrated with distributed backend services
+- 🔁 **CI/CD & DevOps** — Jenkins, Docker, Kubernetes, Ansible, AWS
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <!-- keep your existing icons block here unchanged -->
+</p>
+
+---
+
+### 📌 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sagar-barate-6b22041b3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/sagarbarate/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbarate&show_icons=true&locale=en&layout=compact" />
+</p>
