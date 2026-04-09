@@ -3,13 +3,13 @@
 
 <p align="center">
   Passionate about building scalable, reliable, and user-focused software solutions.<br>
-  Currently based in Athlone, Ireland 🇮🇪
+  Currently based in Ireland 🇮🇪
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 3+ years of experience in software development across enterprise and cloud-focused environments
+- 🔭 Experienced in software development across enterprise and cloud-focused environments.
 - 🌱 Interested in building scalable, secure, and maintainable applications
 - 🏦 Worked on production-grade solutions in large-scale business environments
 - 🎓 MSc in Software Design with Cloud Native Computing — **First Class Distinction**
