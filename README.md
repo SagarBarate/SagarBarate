@@ -1,39 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sagar Barate</h1>
-<h3 align="center">Software Engineer | AWS Certified | MSc Cloud Native Computing</h3>
+<h3 align="center">Software Engineer | Cloud-Focused Developer</h3>
 
 <p align="center">
-  Passionate about building scalable backend services, microservices, and cloud-native applications.<br>
-  Currently studying at Technological University of Shannon, Athlone, Ireland 🇮🇪
+  Passionate about building scalable, reliable, and user-focused software solutions.<br>
+  Currently based in Athlone, Ireland 🇮🇪
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 3+ years of experience in full-stack and backend development, microservices, and cloud infrastructure
-- ⚙️ Specialized in **Java (Spring Boot 2.x/3.x)**, **Spring Batch**, and high-throughput **RESTful APIs**
-- 🏦 Delivered production-grade distributed services for banking and e-learning platforms at Accenture
+- 🔭 3+ years of experience in software development across enterprise and cloud-focused environments
+- 🌱 Interested in building scalable, secure, and maintainable applications
+- 🏦 Worked on production-grade solutions in large-scale business environments
 - 🎓 MSc in Software Design with Cloud Native Computing — **First Class Distinction**
-- ☁️ AWS Certified Developer Associate | HashiCorp Terraform Associate
-- 💬 Ask me about **Spring Boot, Spring Batch, Java, Microservices, React.js, AWS, Docker, Kubernetes**
-- 📫 Reach me at **sagarbarate1999@gmail.com**
+- ☁️ Strong interest in software engineering, cloud, and modern application development
+- 💬 Open to conversations around software development, problem-solving, and building reliable systems
+- 📫 Reach me at **sagarbarateirl@gmail.com**
 
 ---
 
-### ⚙️ What I Build
-
-- 🔧 **Backend Services** — Spring Boot microservices and RESTful APIs with clean OOP design
-- 📦 **Batch Processing** — Spring Batch pipelines that improved data processing performance by **60%**, cutting execution time from hours to minutes
-- ⚡ **Reactive Systems** — Spring WebFlux for low-latency, near real-time backend operations
-- 🌐 **Full Stack** — React.js + TypeScript frontends integrated with distributed backend services
-- 🔁 **CI/CD & DevOps** — Jenkins, Docker, Kubernetes, Ansible, AWS
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <!-- keep your existing icons block here unchanged -->
-</p>
+### ⚙️ What I Do
+- 🔧 Build reliable and scalable software solutions
+- 📦 Contribute to backend and full application development
+- ⚡ Focus on performance, maintainability, and clean design
+- 🌐 Work across different parts of the software development lifecycle
+- 🔁 Support continuous improvement, delivery processes, and production readiness
 
 ---
 
