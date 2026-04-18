@@ -12,7 +12,7 @@
 - 🔭 Experienced in software development across enterprise and cloud-focused environments.
 - 🌱 Interested in building scalable, secure, and maintainable applications
 - 🏦 Worked on production-grade solutions in large-scale business environments
-- 🎓 MSc in Software Design with Cloud Native Computing — **First Class Distinction**
+- 🎓 MSc in Software Design with Cloud Native Computing 
 - ☁️ Strong interest in software engineering, cloud, and modern application development
 - 💬 Open to conversations around software development, problem-solving, and building reliable systems
 - 📫 Reach me at **sagarbarateirl@gmail.com**
