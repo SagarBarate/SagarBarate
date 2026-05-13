@@ -124,57 +124,13 @@ I enjoy solving real-world engineering problems, improving system performance, w
 - **DevOps on AWS, Cloud Technical Essentials, Code, Build, Test, Release, and Deploy**
 - **Full Stack Development (MERN Stack) - Coding Ninjas**
 - **Machine Learning for Remote Sensing Data Classification - ISRO**
-
-> AWS Developer Associate and Terraform Associate badges are linked to your public Credly verification pages. For the remaining certificates, replace the `PASTE_..._LINK_HERE` values when you have their certificate links.
-
 ---
-
-## 🚀 Featured Projects
-
-### **CleanNFT**  
-🔗 [GitHub Repository](https://github.com/SagarBarate/CleanNFT)
-
-- Developed a blockchain-based recycling reward system with a mobile app, admin portal, and IoT integration.
-- Built using **React Native, Node.js, Solidity smart contracts, and AWS Lambda**.
-- Enabled users to scan QR codes to earn NFT badges while admins manage users and track recycling statistics.
-
-### **Enterprise Microservices Hospital Management System**  
-🔗 [GitHub Repository](https://github.com/sagarbarate/microservice-ci-cd)
-
-- Built a **Spring Boot + Spring Cloud** hospital management system using Eureka, Config Server, API Gateway, and PostgreSQL.
-- Automated CI/CD deployment on **AWS EC2** using Jenkins, Maven, SonarQube, artifacts, and Ansible.
-- Designed the system to demonstrate microservices, service discovery, API routing, automated builds, and deployment workflows.
-
-### **OpenTelemetry DevOps Project**  
-🔗 [GitHub Repository](https://github.com/SagarBarate/enterprise-microservices-devops-platform)
-
-- Deployed a microservices-based e-commerce platform on AWS with **15+ services** including frontend, payment, inventory, and fraud detection.
-- Established **GitHub Actions CI/CD pipelines** for automated testing and deployment.
-- Designed scalable cloud-native architecture using **Kubernetes, Docker, service discovery, load balancing, and fault tolerance**.
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarBarate&show_icons=true&theme=tokyonight" alt="Sagar's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=SagarBarate&theme=tokyonight" alt="Sagar's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarBarate&theme=tokyo-night" alt="Sagar's GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarBarate&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Strengthening backend engineering with **Java, Spring Boot, Microservices, and Distributed Systems**
+- Building full-stack applications using **React.js, JavaScript/TypeScript, REST APIs, and modern frontend practices**
 - Building cloud-native projects using **AWS, Docker, Kubernetes, Jenkins, Terraform, and CI/CD pipelines**
+- Exploring AI-enabled engineering with **MCP integrations, n8n workflows, automation agents, and GenAI-powered developer tooling**
 - Practicing DSA and problem-solving on **LeetCode**
 - Improving production-readiness skills through observability, debugging, monitoring, and root cause analysis
 
