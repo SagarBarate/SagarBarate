@@ -1,4 +1,4 @@
-## Dia dhuit & नमस्कार (Greetings) 🙏🏼
+## Chai, code & craic ☕💻☘️
 
 # Hi there! 👋 I'm [Sagar Barate](https://www.sagarbarate.space/)
 
