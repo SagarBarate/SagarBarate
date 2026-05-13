@@ -1,4 +1,4 @@
-## नमस्कार (Greetings) 🙏🏼
+## Dia dhuit & नमस्कार (Greetings) 🙏🏼
 
 # Hi there! 👋 I'm [Sagar Barate](https://www.sagarbarate.space/)
 
